@@ -1,5 +1,5 @@
 # Used car price prediction using diffrent regression models.
-In this small project I used a the used car [dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho/notebooks) from Kaggle to predict 
+In this small project I used the used car [dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho/notebooks) from Kaggle to predict 
 selling prices of used cars.
 
 # Things Learnt
